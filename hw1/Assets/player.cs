@@ -26,7 +26,7 @@ public class player : MonoBehaviour {
         resultStyle.fontSize = 40;
         resultStyle.normal.textColor = new Color(255, 255, 255);
 
-        //
+        //game logic
         int result = check();
         if (result == 1) GUI.Label(new Rect(width - 30, height - 70, 100, 50), "Game over, O wins!", resultStyle);
         else if (result == 2) GUI.Label(new Rect(width - 30, height -70, 100, 50), "Game over, X wins!", resultStyle);
