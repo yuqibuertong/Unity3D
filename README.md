@@ -16,3 +16,7 @@ hw3
 hw4
 博客链接https://blog.csdn.net/yuxy36/article/details/102337700
 视频链接https://www.bilibili.com/video/av70538667
+
+hw5
+博客链接https://blog.csdn.net/yuxy36/article/details/102601967
+视频链接https://member.bilibili.com/v2#/upload-manager/article
